@@ -1,4 +1,4 @@
-## Hello,
+## **Welcome**,
 
 My name is Zachary, also known by my github alias zaroops. 
 
@@ -13,7 +13,7 @@ I suppose the goal of this is to document my learning and to hold myself account
 
 My favorite tools are: VMWare Workstation Pro, Kali Linux, NotebookLM, and Visual Studio Code. 
 
-## Fun Facts,
+## Fun Facts
 
 My hobbies include: Cybersecurity, Creative Writing, Reading, Music Theory, Physical Fitness (swimming, lifting, martial arts, yoga), Herpetology (the study of snakes), Philosophy, and Pyschology.
 
