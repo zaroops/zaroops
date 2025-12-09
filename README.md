@@ -6,6 +6,8 @@ I'm an aspiring hacker/red teamer based in New York City.
 
 I have my AZ-900 Azure Fubdamentals Certification and my Comptia Security+ Certification, and I am currently studying for my CCNA (Cisco Certified Network Administrator) Certification. 
 
+I am currently focused on learning my CCNA material as well as tryhackme/hackthebx material to participate in CTFs. 
+
 ## Skills
 
 • Computer Networking (TCP/IP, DNS, DHCP, VPN, LAN/WAN fundamentals)\
@@ -14,12 +16,6 @@ I have my AZ-900 Azure Fubdamentals Certification and my Comptia Security+ Certi
 • Active Directory\
 • Kali Linux\
 • HTML/CSS
-
-I am currently focused on learning my CCNA material as well as tryhackme/hackthebx material to participate in CTFs. 
-
-## Purpose 
-
-I suppose the goal of this is to document my learning and to hold myself accountable as much as I can while achieving my goals.. 
 
 ## Favorite Tools
 
