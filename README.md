@@ -21,7 +21,8 @@ I am currently focused on learning my CCNA material as well as tryhackme/hackthe
 
 I suppose the goal of this is to document my learning and to hold myself accountable as much as I can while achieving my goals.. 
 
-My favorite tools are 
+##Tools
+
 • VMWare Workstation Pro
 • Kali Linux 
 • NotebookLM
