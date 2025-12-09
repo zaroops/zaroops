@@ -2,7 +2,7 @@
 
 My name is Zachary, also known by my github alias, [zaroops](https://github.com/zaroops). 
 
-I'm an aspiring hacker/red teamer based in New York City. 
+I'm an aspiring hacker/red teamer/malware analyst based in New York City. 
 
 I have my AZ-900 Azure Fubdamentals Certification and my Comptia Security+ Certification, and I am currently studying for my CCNA (Cisco Certified Network Administrator) Certification. 
 
@@ -20,7 +20,7 @@ I am currently focused on learning my CCNA material as well as tryhackme/hackthe
 ## Favorite Tools
 
 • VMWare Workstation Pro\
-• Kali Linux \
+• Kali Linux\
 • NotebookLM\
 • Visual Studio Code 
 
