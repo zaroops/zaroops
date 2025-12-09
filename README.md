@@ -10,14 +10,10 @@ I have my AZ-900 Azure Fubdamentals Certification and my Comptia Security+ Certi
 
 • Computer Networking (TCP/IP, DNS, DHCP, VPN, LAN/WAN fundamentals)
 
-• IT troubleshooting basics
-
-• Python Proficiency
-
-• Active Directory
-
-• Kali Linux
-
+• IT troubleshooting basics\
+• Python Proficiency\
+• Active Directory\
+• Kali Linux\
 • HTML/CSS
 
 I am currently focused on learning my CCNA material as well as tryhackme/hackthebx material to participate in CTFs. 
