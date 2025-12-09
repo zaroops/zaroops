@@ -26,7 +26,7 @@ I suppose the goal of this is to document my learning and to hold myself account
 • VMWare Workstation Pro
 • Kali Linux 
 • NotebookLM
-• Visual Studio Code. 
+• Visual Studio Code 
 
 ## Fun Facts
 
