@@ -1,6 +1,6 @@
 ## **Welcome**,
 
-My name is Zachary, also known by my github alias zaroops. 
+My name is Zachary, also known by my github alias, zaroops. 
 
 I'm an aspiring hacker/red teamer based in New York City. 
 
