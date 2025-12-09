@@ -8,8 +8,7 @@ I have my AZ-900 Azure Fubdamentals Certification and my Comptia Security+ Certi
 
 ## Skills
 
-• Computer Networking (TCP/IP, DNS, DHCP, VPN, LAN/WAN fundamentals)
-
+• Computer Networking (TCP/IP, DNS, DHCP, VPN, LAN/WAN fundamentals)\
 • IT troubleshooting basics\
 • Python Proficiency\
 • Active Directory\
@@ -24,18 +23,13 @@ I suppose the goal of this is to document my learning and to hold myself account
 
 ## Favorite Tools
 
-• VMWare Workstation Pro
-
-• Kali Linux 
-
-• NotebookLM
-
+• VMWare Workstation Pro\
+• Kali Linux \
+• NotebookLM\
 • Visual Studio Code 
 
 ## Fun Facts
 
-• My hobbies include: Cybersecurity, Creative Writing, Reading, Music Theory, Physical Fitness (swimming, lifting, martial arts, yoga), Herpetology (the study of snakes), Philosophy, and Pyschology.
-
-• I own four cats.
-
-• I am 24 years old, and a capricorn.
+• My hobbies include: Cybersecurity, Creative Writing, Reading, Music Theory, Physical Fitness (swimming, lifting, martial arts, yoga), Herpetology (the study of snakes), Philosophy, and Pyschology.\
+• I own four cats.\
+• I am 24 years old, and a capricorn.\
