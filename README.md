@@ -1,6 +1,6 @@
 ## **Welcome**,
 
-My name is Zachary, also known by my github alias, zaroops. 
+My name is Zachary, also known by my github alias, [zaroops](https://github.com/zaroops). 
 
 I'm an aspiring hacker/red teamer based in New York City. 
 
@@ -26,7 +26,7 @@ I am currently focused on learning my CCNA material as well as tryhackme/hackthe
 
 I suppose the goal of this is to document my learning and to hold myself accountable as much as I can while achieving my goals.. 
 
-## Tools
+## Favorite Tools
 
 • VMWare Workstation Pro
 
