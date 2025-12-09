@@ -32,4 +32,4 @@ I suppose the goal of this is to document my learning and to hold myself account
 
 • My hobbies include: Cybersecurity, Creative Writing, Reading, Music Theory, Physical Fitness (swimming, lifting, martial arts, yoga), Herpetology (the study of snakes), Philosophy, and Pyschology.\
 • I own four cats.\
-• I am 24 years old, and a capricorn.\
+• I am 24 years old, and a capricorn.
