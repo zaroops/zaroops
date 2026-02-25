@@ -6,7 +6,7 @@ I'm an aspiring SOC analyst/threat hunter based in New York City.
 
 I have my Comptia Security+ and Microsoft Azure Fundamentals Certifications, and I am currently studying for my CCNA (Cisco Certified Network Administrator) Certification. 
 
-I am currently focused on breaking into the cybersecurity field with my hands on experience in SIEM tools, log analysis, soc analyst simulation, VLAN configuration, and red-team skills. Currently learning my CCNA material as well as utilizing the hands on material i've showcased in my github repositories.
+I am currently focused on breaking into the cybersecurity field with my hands on experience in SIEM tools, log analysis, SOC simulations, VLAN configuration, and red-team skills. Currently learning my CCNA material as well as utilizing the hands on material i've showcased in my github repositories.
 
 ## Skills
 
