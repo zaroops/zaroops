@@ -2,14 +2,15 @@
 
 My name is Zachary, also known by my github alias, [zaroops](https://github.com/zaroops). 
 
-I'm an aspiring hacker/red teamer/malware analyst based in New York City. 
+I'm an aspiring SOC analyst/threat hunter based in New York City. 
 
-I have my AZ-900 Azure Fundamentals Certification and my Comptia Security+ Certification, and I am currently studying for my CCNA (Cisco Certified Network Administrator) Certification. 
+I have my Comptia Security+ and Microsoft Azure Fundamentals Certifications, and I am currently studying for my CCNA (Cisco Certified Network Administrator) Certification. 
 
-I am currently focused on learning my CCNA material as well as tryhackme/hackthebox material to participate in CTFs. 
+I am currently focused on breaking into the cybersecurity field with my hands on experience in SIEM tools, log analysis, soc analyst simulation, VLAN configuration, and red-team skills. Currently learning my CCNA material as well as utilizing the hands on material i've showcased in my github repositories.
 
 ## Skills
 
+• SIEM Tools (Splunk + Sysmon Setup, IBM QRadar)\
 • Computer Networking (TCP/IP, DNS, DHCP, VPN, LAN/WAN fundamentals)\
 • IT troubleshooting basics\
 • Python Proficiency\
