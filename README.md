@@ -28,5 +28,3 @@ I am currently focused on breaking into the cybersecurity field with my hands on
 ## Fun Facts
 
 • My hobbies include: Cybersecurity, Creative Writing, Reading, Music Theory, Physical Fitness (swimming, lifting, martial arts, yoga), Herpetology (the study of snakes), Philosophy, and Pyschology.\
-• I own four cats.\
-• I am 24 years old, and a capricorn.
