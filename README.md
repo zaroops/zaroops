@@ -23,8 +23,8 @@ I am currently focused on breaking into the cybersecurity field with my hands on
 • VMWare Workstation Pro\
 • Kali Linux\
 • NotebookLM\
-• Visual Studio Code 
+• Solunk 
 
 ## Fun Facts
 
-• My hobbies include: Cybersecurity, Creative Writing, Reading, Music Theory, Physical Fitness (swimming, lifting, martial arts, yoga), Herpetology (the study of snakes), Philosophy, and Pyschology.\
+• My hobbies include: Cybersecurity, Creative Writing, Reading, Music Theory, Physical Fitness (swimming, lifting, martial arts, yoga), Herpetology (the study of snakes), Philosophy, and Pyschology.
